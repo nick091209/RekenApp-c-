@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Rekenrace.Properties
+namespace RekenApp.Properties
 {
 
 

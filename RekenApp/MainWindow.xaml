@@ -1,0 +1,15 @@
+﻿<Window x:Class="RekenApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Math Trainer" Height="350" Width="500">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="300">
+            <TextBlock Text="Math Trainer" FontSize="24" FontWeight="Bold" 
+                       HorizontalAlignment="Center" Margin="0,0,0,40"/>
+            <TextBlock Text="Enter your name:" FontSize="16" Margin="0,0,0,10"/>
+            <TextBox x:Name="NameTextBox" FontSize="16" Padding="5" Margin="0,0,0,20"/>
+            <Button x:Name="NextButton" Content="Next" Width="100" Height="30" 
+                    Click="NextButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

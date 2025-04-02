@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rekenrace", "Rekenrace\Rekenrace.csproj", "{8E1C92D0-F5C0-4D2C-96AD-17E56D19F882}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekenApp", "RekenApp\RekenApp.csproj", "{77CEC035-7D90-4BBC-9277-57ACEF910E0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8E1C92D0-F5C0-4D2C-96AD-17E56D19F882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E1C92D0-F5C0-4D2C-96AD-17E56D19F882}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E1C92D0-F5C0-4D2C-96AD-17E56D19F882}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E1C92D0-F5C0-4D2C-96AD-17E56D19F882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CEC035-7D90-4BBC-9277-57ACEF910E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CEC035-7D90-4BBC-9277-57ACEF910E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CEC035-7D90-4BBC-9277-57ACEF910E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CEC035-7D90-4BBC-9277-57ACEF910E0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FD39AF02-B293-44B0-944F-1BAD9751E2F4}
+		SolutionGuid = {7D606E49-EA94-4A10-8EED-CD2D33FFAC0C}
 	EndGlobalSection
 EndGlobal

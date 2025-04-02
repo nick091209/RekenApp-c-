@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8E1C92D0-F5C0-4D2C-96AD-17E56D19F882}</ProjectGuid>
+    <ProjectGuid>{77CEC035-7D90-4BBC-9277-57ACEF910E0F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Rekenrace</RootNamespace>
-    <AssemblyName>Rekenrace</AssemblyName>
+    <RootNamespace>RekenApp</RootNamespace>
+    <AssemblyName>RekenApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -55,8 +55,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Rekenscherm.xaml.cs">
-      <DependentUpon>Rekenscherm.xaml</DependentUpon>
+    <Compile Include="DifficultyWindow.xaml.cs">
+      <DependentUpon>DifficultyWindow.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -70,7 +70,7 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Rekenscherm.xaml">
+    <Page Include="DifficultyWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
