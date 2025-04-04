@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MathGame3F"
         mc:Ignorable="d"
-        Title="3F Rekenspel" Height="500" Width="600" WindowStartupLocation="CenterScreen">
-    <Grid>
+        Title="3F Rekenspel" Height="572" Width="687" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,14,12">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -15,26 +15,26 @@
 
         <!-- Header -->
         <StackPanel Grid.Row="0" Margin="0,40,0,20">
-            <TextBlock Text="3F Rekenspel" FontSize="42" FontWeight="Bold" HorizontalAlignment="Center" Foreground="#2d2c94"/>
-            <TextBlock Text="Oefen rekenen op 3F niveau" FontSize="18" HorizontalAlignment="Center" Margin="0,10,0,0" Foreground="#de1c7e"/>
+            <TextBlock FontSize="42" FontWeight="Bold" HorizontalAlignment="Center" Foreground="#2d2c94"><Run Language="nl-nl" Text="RekenRace"/></TextBlock>
+            <TextBlock FontSize="18" HorizontalAlignment="Center" Margin="0,10,0,0" Foreground="#de1c7e"><Run Text="Oefen rekenen"/><LineBreak/><Run/></TextBlock>
         </StackPanel>
 
         <!-- Hoofddeel met naamveld en knoppen -->
         <Grid Grid.Row="1">
-            <Border Width="400" CornerRadius="15" BorderBrush="#2d2c94" BorderThickness="2" Padding="30">
+            <Border CornerRadius="15" BorderBrush="#2d2c94" BorderThickness="2" Padding="30" Margin="142,0,142,10">
                 <StackPanel>
                     <TextBlock Text="Voer je naam in:" FontSize="18" Margin="0,0,0,10" FontWeight="SemiBold" Foreground="#2d2c94"/>
                     <TextBox x:Name="txtPlayerName" Height="40" FontSize="18" Margin="0,0,0,30" Padding="5,5,5,5"/>
 
                     <Button x:Name="btnStartGame" Content="Start Spel" Height="50" FontSize="18" Margin="0,0,0,15" Click="btnStartGame_Click" Background="#2d2c94" Foreground="White"/>
-                    <Button x:Name="btnHighScores" Content="Bekijk Highscores" Height="50" FontSize="18" Margin="0,0,0,15" Click="btnHighScores_Click" Background="#de1c7e" Foreground="White"/>
+                    <Button x:Name="btnViewHighScores" Content="Bekijk Highscores" Height="40" Width="150" 
+        FontSize="16" Margin="0,10,0,0" Click="btnViewHighScores_Click" 
+        Background="#2d2c94" Foreground="White"/>
                 </StackPanel>
             </Border>
         </Grid>
 
         <!-- Footer -->
-        <StackPanel Grid.Row="2" Margin="0,0,0,20">
-            <TextBlock Text="© 2025 3F Rekenspel" FontSize="12" HorizontalAlignment="Center" Foreground="#666666"/>
-        </StackPanel>
+        <StackPanel Grid.Row="2" Margin="0,0,0,20"/>
     </Grid>
 </Window>

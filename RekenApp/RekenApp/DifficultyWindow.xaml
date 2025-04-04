@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MathGame3F"
         mc:Ignorable="d"
-        Title="Kies Moeilijkheidsgraad" Height="350" Width="500" WindowStartupLocation="CenterScreen">
-    <Grid>
+        Title="Kies Moeilijkheidsgraad" Height="426" Width="608" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,23,15">
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="300">
             <TextBlock x:Name="txtWelcome" Text="Welkom, [Naam]!" FontSize="24" FontWeight="Bold" Margin="0,0,0,20" Foreground="#2d2c94"/>
             <TextBlock Text="Kies een moeilijkheidsgraad:" FontSize="18" Margin="0,0,0,20" Foreground="#de1c7e"/>

@@ -18,9 +18,12 @@ namespace MathGame3F
             StartGame();
         }
 
-        private void btnHighScores_Click(object sender, RoutedEventArgs e)
+        // Add this method to your MainWindow class
+        private void btnViewHighScores_Click(object sender, RoutedEventArgs e)
         {
-            ShowHighScores();
+            // Open high scores window without requiring a player name
+            HighScoresWindow highScoresWindow = new HighScoresWindow();
+            highScoresWindow.Show();
         }
 
         private void StartGame()

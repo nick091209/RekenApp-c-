@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|c:\\school\\l7-pro-1-rekenrace-2023-nick091209\\rekenapp\\rekenapp\\scorewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\scorewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\rekenapp\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|c:\\school\\l7-pro-1-rekenrace-2023-nick091209\\rekenapp\\rekenapp\\scorewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\scorewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|c:\\school\\l7-pro-1-rekenrace-2023-nick091209\\rekenapp\\rekenapp\\difficultywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\difficultywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\rekenapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\rekenapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\rekenapp\\highscoreswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\highscoreswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\rekenapp\\highscoreswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\highscoreswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|c:\\school\\l7-pro-1-rekenrace-2023-nick091209\\rekenapp\\rekenapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\rekenapp\\scorewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\scorewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|c:\\school\\l7-pro-1-rekenrace-2023-nick091209\\rekenapp\\rekenapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\rekenapp\\scorewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\scorewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\rekenapp\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\rekenapp\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\rekenapp\\scorewindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{77CEC035-7D90-4BBC-9277-57ACEF910E0F}|RekenApp\\RekenApp.csproj|solutionrelative:rekenapp\\scorewindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -50,23 +58,46 @@
       "DocumentGroups": [
         {
           "DockedHeight": 296,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "DifficultyWindow.xaml",
+              "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\DifficultyWindow.xaml",
+              "RelativeDocumentMoniker": "RekenApp\\DifficultyWindow.xaml",
+              "ToolTip": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\DifficultyWindow.xaml",
+              "RelativeToolTip": "RekenApp\\DifficultyWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-02T10:27:31.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HighScoresWindow.xaml.cs",
+              "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\HighScoresWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RekenApp\\HighScoresWindow.xaml.cs",
+              "ToolTip": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\HighScoresWindow.xaml.cs",
+              "RelativeToolTip": "RekenApp\\HighScoresWindow.xaml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv5MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:17:14.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ScoreWindow.xaml",
               "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\ScoreWindow.xaml",
               "RelativeDocumentMoniker": "RekenApp\\ScoreWindow.xaml",
               "ToolTip": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\ScoreWindow.xaml",
               "RelativeToolTip": "RekenApp\\ScoreWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-02T09:10:00.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T09:10:00.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ScoreWindow.xaml.cs",
               "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\ScoreWindow.xaml.cs",
               "RelativeDocumentMoniker": "RekenApp\\ScoreWindow.xaml.cs",
@@ -74,8 +105,7 @@
               "RelativeToolTip": "RekenApp\\ScoreWindow.xaml.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAwGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T09:09:50.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T09:09:50.789Z"
             },
             {
               "$type": "Document",
@@ -85,38 +115,35 @@
               "RelativeDocumentMoniker": "RekenApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "RekenApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAwDkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T09:09:10.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T09:09:10.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RekenApp\\MainWindow.xaml",
               "ToolTip": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\MainWindow.xaml",
               "RelativeToolTip": "RekenApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-02T09:06:52.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T09:06:52.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HighScoresWindow.xaml",
               "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\HighScoresWindow.xaml",
               "RelativeDocumentMoniker": "RekenApp\\HighScoresWindow.xaml",
               "ToolTip": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\HighScoresWindow.xaml",
               "RelativeToolTip": "RekenApp\\HighScoresWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-02T08:22:51.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T08:22:51.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "HighScore.cs",
               "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\HighScore.cs",
               "RelativeDocumentMoniker": "RekenApp\\HighScore.cs",
@@ -128,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "DifficultyWindow.xaml.cs",
               "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\DifficultyWindow.xaml.cs",
               "RelativeDocumentMoniker": "RekenApp\\DifficultyWindow.xaml.cs",
@@ -140,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "GameWindow.xaml.cs",
               "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\GameWindow.xaml.cs",
               "RelativeDocumentMoniker": "RekenApp\\GameWindow.xaml.cs",
@@ -148,11 +175,12 @@
               "RelativeToolTip": "RekenApp\\GameWindow.xaml.cs",
               "ViewState": "AgIAAP8AAAAAAAAAAAAAAAsBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:51:33.112Z"
+              "WhenOpened": "2025-04-02T07:51:33.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GameWindow.xaml",
               "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\GameWindow.xaml",
               "RelativeDocumentMoniker": "RekenApp\\GameWindow.xaml",
@@ -163,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ScoreWindow.xaml",
               "DocumentMoniker": "C:\\school\\l7-pro-1-rekenrace-2023-nick091209\\RekenApp\\RekenApp\\ScoreWindow.xaml",
               "RelativeDocumentMoniker": "RekenApp\\ScoreWindow.xaml",

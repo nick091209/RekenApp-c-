@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\school\RekenApp-c-\RekenApp\RekenApp\obj\Debug\
+C:\school\RekenApp-c-\RekenApp\RekenApp\obj\Release\
 RekenApp
 none
 false
-DEBUG;TRACE
+TRACE
 C:\school\RekenApp-c-\RekenApp\RekenApp\App.xaml
 5-1412852175
 
